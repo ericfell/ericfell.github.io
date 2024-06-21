@@ -43,11 +43,13 @@ Skills
 
 Publications
 ======
-{% include talks2.html %}
+<ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.pages.talks2 %}
+  <ul>{% for post in site.pages %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
