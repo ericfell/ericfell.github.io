@@ -119,7 +119,7 @@ for idx, bib_id in enumerate(bibdata.entries):
         citation = citation + " " + html_escape(b["address"].replace("{", "").replace("}", "").replace("\\", ""))
         # add date
         citation = citation + " (" + b["month"] + " " + b["year"] + ")."
-        #all_citations.append(citation)
+        all_citations.append(citation)
 
         # sort by presentation type
         present = b["note"].replace("{", "").replace("}", "").replace("\\", "").lower()
@@ -132,9 +132,6 @@ for idx, bib_id in enumerate(bibdata.entries):
             posters_list.append(citation)
         else:
             talks_list.append(citation)
-
-
-
 
     except KeyError as e:
         print(f'WARNING Missing Expected Field {e} from entry {bib_id}: \"', b["title"][:30], "..." * (len(b['title']) > 30), "\"")
@@ -177,36 +174,8 @@ for poster in posters_list[::-1]:
 html += "</ul>\n"
 
 
-
-
-
-
-# creating html lists
-
-# OG do reverse chronological order
-#for inv_talk in all_citations[::-1]:
-#    html += "  <li> " + inv_talk + " </li>\n"
-
-# end section
-#html += "</ul>\n"
-
 with open("../_pages/talks2.html", 'w', encoding="utf-8") as f:
     f.write(html)
-
-#html += "\n<b>Talks</b>\n"
-
-
-#html += "\n<b>Posters</b>\n"
-
-
-
-
-
-
-
-
-
-
 
 
 
