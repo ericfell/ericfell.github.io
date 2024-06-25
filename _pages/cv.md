@@ -22,15 +22,6 @@ Professional experience
   * School of Engineering and Applied Sciences
   * [Aziz Lab](https://aziz.seas.harvard.edu/)
   * Development of (electro)chemical open source software.
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 
 Publications
@@ -48,7 +39,7 @@ Presentations
 
 * Eric M. Fell, Michael J. Aziz, <a href="https://iopscience.iop.org/article/10.1149/MA2023-02592852mtgabs/meta"> Understanding Capacity Fade Behavior in Aqueous Organic Redox Flow Batteries Via Zero-Dimensional Models and High-Throughput Cell Cycling</a>, <i>244<sup>th</sup> Electrochemical Society (ECS) Meeting</i>. Gothenburg, Sweden (October 2023).
 * Eric M. Fell, Michael J. Aziz, High-Throughput Electrochemical Characterization of Aqueous Organic Redox Flow Batteries, <i>Gordon Research Seminar (GRS): Electrochemistry</i>. Ventura, USA (September 2022).
-* Eric M. Fell, Yan Jing, Min Wu, Meisam Bahari, Evan W. Zhao, Marc-Antoni Goulet, Shijian Jin, Ali Davoodi, Erlendur JÃ³nsson, Clare P. Grey, Roy G. Gordon, Michael J. Aziz, Recent progress in organic-based aqueous flow batteries: Synthetic and regeneration techniques, <i>International Flow Battery Forum (IFBF)</i>. Brussels, Belgium (June 2022).
+* Eric M. Fell, Yan Jing, Min Wu, Meisam Bahari, Evan W. Zhao, Marc-Antoni Goulet, Shijian Jin, Ali Davoodi, Erlendur Jónsson, Clare P. Grey, Roy G. Gordon, Michael J. Aziz, Recent progress in organic-based aqueous flow batteries: Synthetic and regeneration techniques, <i>International Flow Battery Forum (IFBF)</i>. Brussels, Belgium (June 2022).
 * Eric M. Fell, Min Wu, Yan Jing, Andrew A. Wong, Shijian Jin, Zhijiang Tang, Daniel A. Pollack, Emily F. Kerr, Roy G. Gordon, Michael J. Aziz, Recent progress in organic-based aqueous flow batteries: Stability and synthetic techniques, <i>International Flow Battery Forum (IFBF)</i>. Virtual (January 2021).
 * Eric M. Fell, Michael J. Aziz, pH Swing Cycle for Direct Air Capture Driven by Aqueous Organic Redox Flow Batteries, <i>MIT Advanced Negative Emissions Technologies Workshop</i>. Cambridge, USA (September 2019).
 
@@ -84,9 +75,6 @@ Presentations
 
 {% endif %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
 Teaching
 ======
 * Teaching Fellow, Harvard ENG-SCI 181: Engineering Thermodynamics
