@@ -45,17 +45,17 @@ Professional experience
   * School of Engineering and Applied Sciences
   * [Aziz Lab](https://aziz.seas.harvard.edu/)
   * Development of (electro)chemical open source software.
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 """
+
+# Skills
+# ======
+# * Skill 1
+# * Skill 2
+#   * Sub-skill 2.1
+#   * Sub-skill 2.2
+#   * Sub-skill 2.3
+# * Skill 3
 
 md += """
 Publications
@@ -75,7 +75,7 @@ Presentations
 # talks formatting
 talks_file = "../_pages/talks.html"
 
-with open(talks_file) as file:
+with open(talks_file, encoding='utf-8') as file:
     lines = file.readlines()
 
 for line in lines[8:]:
