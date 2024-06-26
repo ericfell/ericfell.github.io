@@ -24,6 +24,11 @@ Professional experience
   * Development of (electro)chemical open source software.
 
 
+Open source software development
+======
+* `RFBzero`  [GitHub repo](https://github.com/ericfell/rfbzero)
+  * Python package for microkinetic modeling of electrochemical cycling in redox flow batteries. Includes modules for different cycling protocols, organic electrolyte properties, and the option to include degradation mechanisms.
+
 Publications
 ======
 <ul>{% for post in site.publications reversed %}
