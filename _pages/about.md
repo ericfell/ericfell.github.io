@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "(WORK IN PROGRESS) Eric M. Fell"
+title: "Eric M. Fell"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
