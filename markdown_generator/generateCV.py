@@ -106,14 +106,14 @@ Teaching
 md += """
 Awards
 =====
-* 2024 | Electrochemical Society (ECS) Battery Division Student Research Award. _Sponsored by Mercedes-Benz_
-* 2023 | Next Generation Electrochemistry (NGenE) Travel Award. _University of Illinois Chicago/Argonne National Lab_
-* 2023 | ARPA-E Summit Student Program Award. _Washington, D.C._
-* 2019 | Harvard University Center for the Environment, Travel Award
-* 2016 | Vice-President, Research – Undergraduate Student Research Award. _Simon Fraser University_
-* 2016 | DAAD-RISE Fellow. _Ludwig-Maximilians-Universität München_
-* 2015 | DAAD-RISE Fellow. _Universität Paderborn_
-* 2014 | NSERC Undergraduate Student Research Award. _Simon Fraser University_
+* 2024 &#124; Electrochemical Society (ECS) Battery Division Student Research Award. _Sponsored by Mercedes-Benz_
+* 2023 &#124; Next Generation Electrochemistry (NGenE) Travel Award. _University of Illinois Chicago/Argonne National Lab_
+* 2023 &#124; ARPA-E Summit Student Program Award. _Washington, D.C._
+* 2019 &#124; Harvard University Center for the Environment, Travel Award
+* 2016 &#124; Vice-President, Research – Undergraduate Student Research Award. _Simon Fraser University_
+* 2016 &#124; DAAD-RISE Fellow. _Ludwig-Maximilians-Universität München_
+* 2015 &#124; DAAD-RISE Fellow. _Universität Paderborn_
+* 2014 &#124; NSERC Undergraduate Student Research Award. _Simon Fraser University_
 
 """
 
