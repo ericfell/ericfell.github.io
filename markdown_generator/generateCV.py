@@ -41,8 +41,7 @@ Education
 Professional experience
 ======
 * 2024-current: Postdoctoral Fellow
-  * Harvard University
-  * School of Engineering and Applied Sciences
+  * Harvard University, School of Engineering and Applied Sciences
   * [Aziz Lab](https://aziz.seas.harvard.edu/)
   * Development of (electro)chemical open source software.
 
@@ -96,13 +95,31 @@ for line in lines[8:]:
 md += """
 Teaching
 ======
-* Teaching Fellow, Harvard ENG-SCI 181: Engineering Thermodynamics
+* Teaching Fellow, Harvard University  _ENG-SCI 181: Engineering Thermodynamics_.
 
 """
 
 # Service and leadership
 # ======
 # *
+
+md += """
+Awards
+=====
+* 2024 | Electrochemical Society (ECS) Battery Division Student Research Award. _Sponsored by Mercedes-Benz_
+* 2023 | Next Generation Electrochemistry (NGenE) Travel Award. _University of Illinois Chicago/Argonne National Lab_
+* 2023 | ARPA-E Summit Student Program Award. _Washington, D.C._
+* 2019 | Harvard University Center for the Environment, Travel Award
+* 2016 | Vice-President, Research – Undergraduate Student Research Award. _Simon Fraser University_
+* 2016 | DAAD-RISE Fellow. _Ludwig-Maximilians-Universität München_
+* 2015 | DAAD-RISE Fellow. _Universität Paderborn_
+* 2014 | NSERC Undergraduate Student Research Award. _Simon Fraser University_
+
+"""
+
+
+
+
 
 # write to cv.md file in _pages
 with open("../_pages/cv.md", 'w', encoding="utf-8") as f:
