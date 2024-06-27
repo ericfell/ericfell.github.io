@@ -12,7 +12,7 @@ redirect_from:
 
 About Me
 ======
-I've spent the past decade working on various topics in the field of (electro)chemistry. 
+I've spent the past decade working on various topics in (electro)chemistry. 
 First, working to understand and improve electrocatalysts for use in water electrolyzers (HER, OER).
 Then, after having split quite enough water, I worked on _stabilizing_ aqueous electrolytes in redox flow batteries.
 In the last few years, my research has focused on high-throughput battery testing/analytics pipelines, computational screening and cheminformatics of small-molecule redox-actives, and development of (electro)chemical software.
