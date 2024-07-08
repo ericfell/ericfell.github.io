@@ -24,6 +24,6 @@ BibTeX citation
     volume = "7",
     doi = "10.1021/acsenergylett.1c02504",
     url = "https://doi.org/10.1021/acsenergylett.1c02504",
-    date = "2021-12"
+    date = "2021-12",
 }
 ```

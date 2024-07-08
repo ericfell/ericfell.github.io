@@ -24,6 +24,6 @@ BibTeX citation
     volume = "22",
     doi = "10.1039/D0GC02236E",
     url = "https://pubs.rsc.org/en/content/articlelanding/2020/gc/d0gc02236e",
-    date = "2020-09"
+    date = "2020-09",
 }
 ```

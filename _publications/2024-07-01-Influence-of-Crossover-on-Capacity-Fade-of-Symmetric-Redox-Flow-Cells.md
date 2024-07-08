@@ -24,6 +24,6 @@ BibTeX citation
     doi = "10.26434/chemrxiv-2024-bsr49",
     url = "https://chemrxiv.org/engage/chemrxiv/article-details/66798c8a5101a2ffa864ee15",
     date = "2024-07",
-    author+an = "1=equal;2=equal"
+    author+an = "1=equal;2=equal",
 }
 ```

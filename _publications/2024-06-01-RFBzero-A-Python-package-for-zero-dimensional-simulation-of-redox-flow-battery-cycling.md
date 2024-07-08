@@ -24,6 +24,6 @@ BibTeX citation
     volume = "9",
     doi = "10.21105/joss.06537",
     url = "https://joss.theoj.org/papers/10.21105/joss.06537",
-    date = "2024-06"
+    date = "2024-06",
 }
 ```

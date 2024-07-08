@@ -24,6 +24,6 @@ BibTeX citation
     volume = "6",
     doi = "10.1016/j.chempr.2020.03.021",
     url = "https://www.sciencedirect.com/science/article/pii/S2451929420301340",
-    date = "2020-06"
+    date = "2020-06",
 }
 ```

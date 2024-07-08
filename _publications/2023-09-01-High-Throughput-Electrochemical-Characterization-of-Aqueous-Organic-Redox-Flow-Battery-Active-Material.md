@@ -24,6 +24,6 @@ BibTeX citation
     volume = "170",
     doi = "10.1149/1945-7111/acfcde",
     url = "https://dx.doi.org/10.1149/1945-7111/acfcde",
-    date = "2023-09"
+    date = "2023-09",
 }
 ```

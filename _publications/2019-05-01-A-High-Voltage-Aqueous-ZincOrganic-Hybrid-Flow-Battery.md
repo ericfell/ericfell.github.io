@@ -24,6 +24,6 @@ BibTeX citation
     volume = "9",
     doi = "10.1002/aenm.201900694",
     url = "https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.201900694",
-    date = "2019-05"
+    date = "2019-05",
 }
 ```

@@ -24,6 +24,6 @@ BibTeX citation
     volume = "14",
     doi = "10.1038/s41557-022-00967-4",
     url = "https://www.nature.com/articles/s41557-022-00967-4",
-    date = "2022-06"
+    date = "2022-06",
 }
 ```
