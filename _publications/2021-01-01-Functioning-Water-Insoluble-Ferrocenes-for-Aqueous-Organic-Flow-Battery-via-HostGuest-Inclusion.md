@@ -23,6 +23,6 @@ BibTeX citation
     volume = "14",
     doi = "10.1002/cssc.202002516",
     url = "https://onlinelibrary.wiley.com/doi/abs/10.1002/cssc.202002516",
-    date = "2021-01"
+    date = "2021-01",
 }
 ```

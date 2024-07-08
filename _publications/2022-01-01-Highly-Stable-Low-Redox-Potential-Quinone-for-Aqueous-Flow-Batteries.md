@@ -23,6 +23,6 @@ BibTeX citation
     volume = "5",
     doi = "10.1002/batt.202200009",
     url = "https://onlinelibrary.wiley.com/doi/abs/10.1002/batt.202200009",
-    date = "2022-01"
+    date = "2022-01",
 }
 ```

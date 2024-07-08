@@ -179,6 +179,8 @@ for pubsource in publist:
                 md += "\nBibTeX citation\n"
                 # generate markdown bash cell of bibtex citation
                 add_bib = str(raw_bib[idx]).replace("\\\\", "\\")
+                # adds a comma after final .bib entry in the bash markdown cell
+                add_bib = add_bib.replace("\"\n", "\",\n")
                 md += "\n```bash \n@article" + add_bib + "```\n"
 
             else:

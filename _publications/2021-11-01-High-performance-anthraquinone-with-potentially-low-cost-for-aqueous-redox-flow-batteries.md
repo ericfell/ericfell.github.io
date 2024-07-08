@@ -24,6 +24,6 @@ BibTeX citation
     volume = "9",
     doi = "10.1039/D1TA08900E",
     url = "https://pubs.rsc.org/en/content/articlelanding/2021/ta/d1ta08900e",
-    date = "2021-11"
+    date = "2021-11",
 }
 ```

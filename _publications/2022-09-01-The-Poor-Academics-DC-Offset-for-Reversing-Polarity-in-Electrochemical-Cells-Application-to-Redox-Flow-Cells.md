@@ -25,6 +25,6 @@ BibTeX citation
     doi = "10.1149/1945-7111/ac91a8",
     url = "https://dx.doi.org/10.1149/1945-7111/ac91a8",
     date = "2022-09",
-    author+an = "1=equal;2=equal"
+    author+an = "1=equal;2=equal",
 }
 ```

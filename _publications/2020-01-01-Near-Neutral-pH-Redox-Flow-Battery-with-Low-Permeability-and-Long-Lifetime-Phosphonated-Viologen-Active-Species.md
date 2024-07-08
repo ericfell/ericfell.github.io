@@ -23,6 +23,6 @@ BibTeX citation
     volume = "10",
     doi = "10.1002/aenm.202000100",
     url = "https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.202000100",
-    date = "2020-04"
+    date = "2020-04",
 }
 ```
